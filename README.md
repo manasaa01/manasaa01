@@ -17,9 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasaa01&show_icons=true&locale=en&layout=compact" alt="manasaa01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasaa01&show_icons=true&locale=en" alt="manasaa01" /></p>
-<br clear="both">
-
-<img src="" alt="Snake animation" />
 
 
 
