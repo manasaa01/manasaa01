@@ -3,7 +3,7 @@
 <img alignment="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasaa01&label=Profile%10views&color=0e75b6&style=flat" alt="manasaa01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasaa01&label=Profile%20views&color=0e75b6&style=flat" alt="manasaa01" /> </p>
 
 - 📫 How to reach me **work.manasamangolu@gmail.com**
 
