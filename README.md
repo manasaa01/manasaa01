@@ -1,4 +1,4 @@
-![logo](https://github.com/manasaa01/manasaa01/blob/main/Github%20Banner.jpg)<h1 align="center">Hi 👋, I'm    Manasa Mangolu</h1>
+![logo](https://github.com/manasaa01/manasaa01/blob/main/Github%20Banner.jpg)<h1 align="center">Hi 👋, I'm <br>Manasa Mangolu</br></h1>
 <h3 align="center"> A Passionate Computer Science Student</h3>
 <img alignment="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
